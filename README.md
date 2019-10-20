@@ -3,6 +3,7 @@ dynamic programming tree
 
 The number is the edge that represents awkwardness between the supervisor, but for convenience for drawing, consider it like node's data
 
+<br/><br/> 
 
 **1.**
 **####################   CASE -62  ####################**
@@ -14,9 +15,8 @@ The number is the edge that represents awkwardness between the supervisor, but f
   
 
 Node that will be invited: 0, left(-15, -45), right(-1, -1) => -62
-  
 
-
+<br/>
         
 PRINT STAEMENT:        
 ================================DATA:  20 
@@ -73,7 +73,7 @@ PRINT STAEMENT:
 minimum awkwardness score:  -62
 
 
-
+<br/><br/> 
 
 **2.**
 **####################   CASE -16  ####################**
@@ -87,8 +87,9 @@ minimum awkwardness score:  -62
                       
                       
 Node that will be invited: 0, left(-2, -4, -5 -3), right(-1, -1) => -16
-+
-+
+
+<br/>
+
 PRINT STAEMENT:
 ================================DATA:  2 
 
@@ -174,7 +175,7 @@ PRINT STAEMENT:
 minimum awkwardness score:  -16
 
 
-
+<br/><br/>
 
 
 **3.** 
@@ -188,68 +189,68 @@ minimum awkwardness score:  -16
                
 Node that will be invited: 0, left(-5, -1, -3, 2, -2), right(-1, -1) => -11
 
-
+<br/>
 
 PRINT STAEMENT:
 ================================DATA:  2
 
-LEFT:  -3
-RIGHT:  0
-graindchild:  0
-child + SELF:  -1
-root.sums:  -1
-Left.sums:  -3
-Right.sums:  0
+- LEFT:  -3
+- RIGHT:  0
+- graindchild:  0
+- child + SELF:  -1
+- root.sums:  -1
+- Left.sums:  -3
+- Right.sums:  0
 
 ================================DATA:  20 
 
-LEFT:  4
-RIGHT:  -4
-graindchild:  0
-child + SELF:  16
-root.sums:  0
-Left.sums:  0
-Right.sums:  -4
+- LEFT:  4
+- RIGHT:  -4
+- graindchild:  0
+- child + SELF:  16
+- root.sums:  0
+- Left.sums:  0
+- Right.sums:  -4
 
 ================================DATA:  -1 
 
-LEFT:  -5
-RIGHT:  20
-graindchild:  -4
-child + SELF:  -6
-root.sums:  -6
-Left.sums:  -5
-Right.sums:  0
+- LEFT:  -5
+- RIGHT:  20
+- graindchild:  -4
+- child + SELF:  -6
+- root.sums:  -6
+- Left.sums:  -5
+- Right.sums:  0
 
 ================================DATA:  -2 
 
-LEFT:  2
-RIGHT:  -1
-graindchild:  -8
-child + SELF:  -9
-root.sums:  -9
-Left.sums:  -1
-Right.sums:  -6
+- LEFT:  2
+- RIGHT:  -1
+- graindchild:  -8
+- child + SELF:  -9
+- root.sums:  -9
+- Left.sums:  -1
+- Right.sums:  -6
 
 ================================DATA:  -1 
 
-LEFT:  -1
-RIGHT:  1
-graindchild:  0
-child + SELF:  -2
-root.sums:  -2
-Left.sums:  -1
-Right.sums:  0
+- LEFT:  -1
+- RIGHT:  1
+- graindchild:  0
+- child + SELF:  -2
+- root.sums:  -2
+- Left.sums:  -1
+- Right.sums:  0
 
 ================================DATA:  0 
 
-LEFT:  -2
-RIGHT:  -1
-graindchild:  -8
-child + SELF:  -11
-root.sums:  -11
-Left.sums:  -9
-Right.sums:  -2
+- LEFT:  -2
+- RIGHT:  -1
+- graindchild:  -8
+- child + SELF:  -11
+- root.sums:  -11
+- Left.sums:  -9
+- Right.sums:  -2
 
 
 minimum awkwardness score:  -11
