@@ -15,8 +15,8 @@ The number is the edge that represents awkwardness between the supervisor, but f
 
 Node that will be invited: 0, left(-15, -45), right(-1, -1) => -62
   
-  
-  
+
+
         
 PRINT STAEMENT:        
 ================================DATA:  20 
@@ -87,10 +87,8 @@ minimum awkwardness score:  -62
                       
                       
 Node that will be invited: 0, left(-2, -4, -5 -3), right(-1, -1) => -16
-
-
-
-
++
++
 PRINT STAEMENT:
 ================================DATA:  2 
 
