@@ -14,15 +14,23 @@ dynamic programming tree
   
         
 PRINT STAEMENT:        
-================================DATA:  20 ================================
+================================DATA:  20 
+
 LEFT:  -15
+
 RIGHT:  0
+
 graindchild:  0
+
 child + SELF:  5
+
 root.sums:  0
+
 Left.sums:  -15
+
 Right.sums:  0
-================================DATA:  40 ================================
+
+================================DATA:  40 
 LEFT:  -45
 RIGHT:  10
 graindchild:  0
