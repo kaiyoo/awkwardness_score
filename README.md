@@ -16,6 +16,7 @@ The number is the edge that represents awkwardness between the supervisor, but f
 Node that will be invited: 0, left(-15, -45), right(-1, -1) => -62
   
   
+  
         
 PRINT STAEMENT:        
 ================================DATA:  20 
@@ -37,6 +38,7 @@ PRINT STAEMENT:
 - root.sums:  -5
 - Left.sums:  -45
 - Right.sums:  0
+
 ================================DATA:  -20 
 
 - LEFT:  20
@@ -46,6 +48,7 @@ PRINT STAEMENT:
 - root.sums:  -60
 - Left.sums:  0
 - Right.sums:  -5
+
 ================================DATA:  -1 
 
 - LEFT:  -1
@@ -55,6 +58,7 @@ PRINT STAEMENT:
 - root.sums:  -2
 - Left.sums:  -1
 - Right.sums:  0
+
 ================================DATA:  0
 
 - LEFT:  -20
@@ -86,6 +90,7 @@ Node that will be invited: 0, left(-2, -4, -5 -3), right(-1, -1) => -16
 
 
 
+
 PRINT STAEMENT:
 ================================DATA:  2 
 
@@ -96,6 +101,7 @@ PRINT STAEMENT:
 - root.sums:  -1
 - Left.sums:  -3
 - Right.sums:  0
+
 ================================DATA:  -5 
 
 - LEFT:  2
@@ -105,6 +111,7 @@ PRINT STAEMENT:
 - root.sums:  -5
 - Left.sums:  0
 - Right.sums:  0
+
 ================================DATA:  0 
 
 - LEFT:  -2
@@ -114,6 +121,7 @@ PRINT STAEMENT:
 - root.sums:  -6
 - Left.sums:  -2
 - Right.sums:  -4
+
 ================================DATA:  1 
 
 - LEFT:  4
@@ -123,6 +131,7 @@ PRINT STAEMENT:
 - root.sums:  -6
 - Left.sums:  0
 - Right.sums:  -6
+
 ================================DATA:  4 
 
 - LEFT:  -5
@@ -132,6 +141,7 @@ PRINT STAEMENT:
 - root.sums:  -7
 - Left.sums:  -5
 - Right.sums:  -6
+
 ================================DATA:  -2
 
 - LEFT:  2
@@ -141,6 +151,7 @@ PRINT STAEMENT:
 - root.sums:  -14
 - Left.sums:  -1
 - Right.sums:  -7
+
 ================================DATA:  -1 
 
 - LEFT:  -1
@@ -150,6 +161,7 @@ PRINT STAEMENT:
 - root.sums:  -2
 - Left.sums:  -1
 - Right.sums:  0
+
 ================================DATA:  0 
 
 - LEFT:  -2
@@ -179,6 +191,7 @@ minimum awkwardness score:  -16
 Node that will be invited: 0, left(-5, -1, -3, 2, -2), right(-1, -1) => -11
 
 
+
 PRINT STAEMENT:
 ================================DATA:  2
 
@@ -189,6 +202,7 @@ child + SELF:  -1
 root.sums:  -1
 Left.sums:  -3
 Right.sums:  0
+
 ================================DATA:  20 
 
 LEFT:  4
@@ -198,6 +212,7 @@ child + SELF:  16
 root.sums:  0
 Left.sums:  0
 Right.sums:  -4
+
 ================================DATA:  -1 
 
 LEFT:  -5
@@ -207,6 +222,7 @@ child + SELF:  -6
 root.sums:  -6
 Left.sums:  -5
 Right.sums:  0
+
 ================================DATA:  -2 
 
 LEFT:  2
@@ -216,6 +232,7 @@ child + SELF:  -9
 root.sums:  -9
 Left.sums:  -1
 Right.sums:  -6
+
 ================================DATA:  -1 
 
 LEFT:  -1
@@ -225,6 +242,7 @@ child + SELF:  -2
 root.sums:  -2
 Left.sums:  -1
 Right.sums:  0
+
 ================================DATA:  0 
 
 LEFT:  -2
