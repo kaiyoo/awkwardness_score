@@ -7,11 +7,12 @@ The number is the edge that represents awkwardness between the supervisor, but f
 1.
 ##########  CASE -62
 
-                0     <----- root
-        -20           -1
-     20      40    -1     1
-  -15  0  -45  10
+                        0     <----- root
+                -20           -1
+             20      40    -1     1
+          -15  0  -45  10
   
+
 Node that will be invited: 0, left(-15, -45), right(-1, -1) => -62
   
   
@@ -68,15 +69,16 @@ minimum awkwardness score:  -62
 2. 
 ###########  CASE -16
 
-                    0     <----- root
-           -2                -1
-      2           4       -1     1
-   -3   0     -5       1
-            2    3   4    0
-                       -2  -4
+                            0     <----- root
+                   -2                -1
+              2           4       -1     1
+           -3   0     -5       1
+                    2    3   4    0
+                               -2  -4
                       
                       
 Node that will be invited: 0, left(-2, -4, -5 -3), right(-1, -1) => -16
+
 
 PRINT STAEMENT:
 ================================DATA:  2 ================================
@@ -154,11 +156,11 @@ minimum awkwardness score:  -16
 3. 
 ###########  CASE -11
 
-                      0      <----- root
-            -2                -1
-       2         -1       -1      1
-   -3    0    -5     20
-                   4    -4
+                              0      <----- root
+                    -2                -1
+               2         -1       -1      1
+           -3    0    -5     20
+                           4    -4
                
 Node that will be invited: 0, left(-5, -1, -3, 2, -2), right(-1, -1) => -11
 
