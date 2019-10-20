@@ -5,7 +5,7 @@ The number is the edge that represents awkwardness between the supervisor, but f
 
 
 **1.**
-**##########  CASE -62**
+**####################   CASE -62  ####################**
 
                         0     <----- root
                 -20           -1
@@ -76,7 +76,7 @@ minimum awkwardness score:  -62
 
 
 **2.**
-**###########  CASE -16**
+**####################   CASE -16  ####################**
 
                             0     <----- root
                    -2                -1
@@ -180,7 +180,7 @@ minimum awkwardness score:  -16
 
 
 **3.** 
-**###########  CASE -11**
+**####################   CASE -11  ####################**
 
                               0      <----- root
                     -2                -1
